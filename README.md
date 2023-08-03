@@ -1,12 +1,9 @@
-# Christian's `Boilerplates`
+#  great templates from Christian's `Boilerplates`
 
 Hi, there! 👋
 
-I’m Christian, a 35-year-old tech enthusiast from Germany, and I love to inspire and educate people in IT.
 
-This Repository **Boilerplates** is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
-
-> :warning: Be aware, products can change over time. I do my best to keep up with the latest changes and releases, but please understand that this won’t always be the case.
+View this guys chanel below to see tutorials on his resources here.
 
 I created them as free resources to be used in your specific use cases. If you're searching for detailed, in-depth tutorials on some tools or technologies, check out my YouTube Channel: [Christian Lempa](https://www.youtube.com/channel/UCZNhwA1B5YqiY1nLzmM0ZRg).
 
